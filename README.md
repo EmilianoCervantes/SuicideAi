@@ -106,7 +106,8 @@ NumPy - https://docs.scipy.org/doc/numpy-dev/dev/
 Sklearn - http://scikit-learn.org/stable/documentation.html
 3.6 Pasos a seguir para utilizar el proyecto
 Para este punto se toma como referencia un usuario que pueda navegar por Internet y que sólo desea utilizar el sistema sin querer editarlo.
-Paso 1. Visitar la URL: 
+Paso 1. Instalar Docker en la computadora a utilizar.
+Paso 2. Correr docker run -p 4000:80 emilianocervantes/suicideairepo:ver1
 4. Referencias
 Sitios de interés:
 https://www.omnicoreagency.com/twitter-statistics/
