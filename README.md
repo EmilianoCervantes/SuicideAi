@@ -104,19 +104,36 @@ Jupyter Notebook - http://jupyter.org/
 Pandas 0.22.0 - https://pandas.pydata.org/pandas-docs/stable/
 NumPy - https://docs.scipy.org/doc/numpy-dev/dev/
 Sklearn - http://scikit-learn.org/stable/documentation.html
+
+
 3.6 Pasos a seguir para utilizar el proyecto
 Para este punto se toma como referencia un usuario que pueda navegar por Internet y que sólo desea utilizar el sistema sin querer editarlo.
-Paso 1. Instalar Docker en la computadora a utilizar.
-Paso 2. Correr docker run -p 4000:80 emilianocervantes/suicideairepo:ver1
+
+Paso 1. Instalar Docker en la computadora a utilizar a través de https://docker.com.
+
+Paso 2. Abrir una terminal
+
+Paso 3. Ingresar docker run -p 4000:8888 emilianocervantes/suicideairepo:ver1. Darle enter.
+
+Paso 4. Abrir un navegador web. Ir a http://localhost:4000.
+
+
 4. Referencias
+
 Sitios de interés:
+
 https://www.omnicoreagency.com/twitter-statistics/
+
 https://nypost.com/2017/11/14/rise-in-teen-suicide-connected-to-social-media-popularity-study/
+
 https://techcrunch.com/2018/02/20/twitter-updates-its-policy-on-tweets-that-encourage-self-harm-and-suicide/
 
 
 Datasets:
 https://www.kaggle.com/crowdflower/first-gop-debate-twitter-sentiment/contributors
+
 https://www.kaggle.com/benhamner/clinton-trump-tweets
+
 https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
 https://medium.com/machine-learning-for-humans/unsupervised-learning-f45587588294
